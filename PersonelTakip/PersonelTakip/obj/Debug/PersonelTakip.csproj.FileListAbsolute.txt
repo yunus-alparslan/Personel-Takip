@@ -1,0 +1,10 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\PersonelTakip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.PersonelEkle.resources
